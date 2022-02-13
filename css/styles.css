@@ -1,0 +1,96 @@
+.fondo{
+    height: 70px;
+    color: #319288;
+}
+.color-header{
+    color: #0c887b;
+}
+.fondo2{
+    background-image: radial-gradient(circle at 120.44% 56.16%, #ffff3c 0, #e6ff48 10%, #c3ff56 20%, #9dff63 30%, #73ff6e 40%, #3cf278 50%, 60%, #00d689 70%, #00cb93 80%, #00c29c 90%, #00bba7 100%);
+}
+.nave{
+    border-bottom: solid 2px green;
+}
+.cabecera{
+    font-family: 'Zen Dots', cursive;
+    font-size: 30px;
+}
+.font3{
+    font-family: 'Zen Dots', cursive;
+}
+.valor{
+    width: 100px;
+}
+.container-fluid{
+    width: 100%;
+}
+.font2{
+    font-family: 'Noto Serif', serif;
+    font-size: 18px;
+}
+.form{
+    border-radius: 10px;
+}
+.form2{
+    border-radius: 10px;
+    height: 438px;
+}
+.InputValue{
+    border-radius: 8px;
+    text-align: center;
+    font-size: 13px;
+}
+.li{
+    list-style: none;
+    color: red;
+    border: solid 3px;
+    width: 6%;
+    text-align: center;
+    border-radius: 50px;
+    font-size: 28px;
+}
+.cabecera3{
+    font-family: 'Zen Dots', cursive;
+    font-size: 10px;
+    color: white;
+}
+
+/*colores*/
+.bg-1{
+    background-color: rgb(228, 233, 235);
+}
+.bg-2{
+    background-color: rgb(206, 207, 200);
+}
+.bg-3{
+    background-color: rgb(19, 165, 19);
+}
+.bg-4{
+    background-color: chartreuse;
+}
+.bg-5{
+    background-color: rgb(145, 190, 100);
+}
+.clear2{
+    border: solid rebeccapurple;
+}
+.vaciar{
+    border-radius: 30px;
+}
+a{
+    text-decoration: none;
+    text-decoration-style: none;
+    color: darkslategray;
+}
+.btn{
+    border-radius:7px;
+    font-size: 16px;
+}
+.btn-recorridos{
+    background-image: radial-gradient(circle at 120.71% 50%, #96ff65 0, #7cff6c 16.67%, #60fb72 33.33%, #3cf278 50%, #00e97d 66.67%, #00e082 83.33%, #00d888 100%);
+}
+
+.bg-tree{
+    background-image: radial-gradient(circle at 120.44% 56.16%, #ffff3c 0, #e6ff48 10%, #c3ff56 20%, #9dff63 30%, #73ff6e 40%, #3cf278 50%, #00e381 60%, #00d689 70%, #00cb93 80%, #00c29c 90%, #00bba7 100%);
+}
+
