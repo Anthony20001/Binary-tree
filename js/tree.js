@@ -57,7 +57,8 @@
     })*/
 
     //evento al dar click en insertar
-    $("#add").on("click", function(){
+    $("#add").on("click", function(e){
+        e.preventDefault();
         const value = $("#input").val();
         
         //comprobando duplicación de nodo
